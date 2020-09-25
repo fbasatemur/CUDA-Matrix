@@ -1,1 +1,11 @@
 # CUDA_Matrix_Multiplication
+
+* vector <a href="https://www.codecogs.com/eqnedit.php?latex=\mathbf{x}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathbf{x}" title="\mathbf{x}" /></a> matrix 
+* square matrix <a href="https://www.codecogs.com/eqnedit.php?latex=\mathbf{x}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathbf{x}" title="\mathbf{x}" /></a> square matrix
+* matrix <a href="https://www.codecogs.com/eqnedit.php?latex=\mathbf{x}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathbf{x}" title="\mathbf{x}" /></a> matrix
+
+Multiplication can be done
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\begin{bmatrix}&space;..&&space;..&space;\\&space;..&&space;..&space;\end{bmatrix}&space;\boldsymbol{\mathbf{\,&space;\,&space;\,&space;\,&space;\,&space;x&space;\,&space;\,&space;\,&space;\,&space;\,}}&space;\begin{bmatrix}&space;..&&space;..&space;\\&space;..&&space;..&space;\end{bmatrix}&space;\,\,\,\,\,&space;=&space;\,\,\,\,\,&space;\begin{bmatrix}&space;..&&space;..&space;\\&space;..&&space;..&space;\end{bmatrix}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\begin{bmatrix}&space;..&&space;..&space;\\&space;..&&space;..&space;\end{bmatrix}&space;\boldsymbol{\mathbf{\,&space;\,&space;\,&space;\,&space;\,&space;x&space;\,&space;\,&space;\,&space;\,&space;\,}}&space;\begin{bmatrix}&space;..&&space;..&space;\\&space;..&&space;..&space;\end{bmatrix}&space;\,\,\,\,\,&space;=&space;\,\,\,\,\,&space;\begin{bmatrix}&space;..&&space;..&space;\\&space;..&&space;..&space;\end{bmatrix}" title="\begin{bmatrix} ..& .. \\ ..& .. \end{bmatrix} \boldsymbol{\mathbf{\, \, \, \, \, x \, \, \, \, \,}} \begin{bmatrix} ..& .. \\ ..& .. \end{bmatrix} \,\,\,\,\, = \,\,\,\,\, \begin{bmatrix} ..& .. \\ ..& .. \end{bmatrix}" /></a>
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\mathbf{1024x625}&space;\,\,\,\,\,\,\,&space;\mathbf{625x5}&space;\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,&space;\mathbf{1024x5}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathbf{1024x625}&space;\,\,\,\,\,\,\,&space;\mathbf{625x5}&space;\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,&space;\mathbf{1024x5}" title="\mathbf{1024x625} \,\,\,\,\,\,\, \mathbf{625x5} \,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\, \mathbf{1024x5}" /></a>
